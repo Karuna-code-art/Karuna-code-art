@@ -1,6 +1,6 @@
 # 🚀 My Journey with the HubSpot Integration I: Foundations Practicum
 
-Hello there! I'm the student who embarked on this journey of the HubSpot Integration I: Foundations course practicum. This journey was both challenging and rewarding, pushing my skills in various areas to new heights.
+Hello there! I'm the Employer who embarked on this journey of the HubSpot Integration I: Foundations course practicum. This journey was both challenging and rewarding, pushing my skills in various areas to new heights.
 
 ## 👨‍💻 Skills & Tools Used
 
